@@ -15,20 +15,20 @@ To ensure reproducibility and facilitate future research, we provide open-source
 
 We plan to evaluate the following methods:
 
-1. MDRM
-2. RA-MDRM
-3. EA
-4. RPA
-5. TSA
+1. Minimum Distance to Riemannian Mean(MDRM)
+2. Riemannian Alignment(RA-MDRM)
+3. Euclidean Alignment(EA)
+4. Riemannian Procrustes Analysis(RPA)
+5. Tangent Space Alignment(TSA)
 6. KLD
 7. 1DCNN
-8. MEKT
-9. TKCSP
+8. Manifold Embedded Knowledge Transfer(MEKT)
+9. Transfer Kernel Common Spatial Pattern(TKCSP)
 10. ACM
-11. OPT
-12. TSTL
+11. Transfer learning using Optimal Transport(OPT)
+12. Three Stage Transfer Learning(TSTL)
 13. EEGNet
-14. LA
+14. Latent Alignment(LA)
 15. SSMSTL
 16. FgMDM
 17. TrAdaBoost + KMM: 
