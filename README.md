@@ -33,8 +33,6 @@ We plan to evaluate the following methods:
 16. FgMDM
 17. TrAdaBoost + KMM: 
 
-18. 
-
 ## References
 
 - [IEEE Xplore: 6346529](https://ieeexplore.ieee.org/document/6346529)
