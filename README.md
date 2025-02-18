@@ -1,3 +1,7 @@
+
+
+# Absract 
+
 Brain-Computer Interfaces (BCIs) have emerged as a transformative technology enabling direct communication between the human brain and external devices. Within this domain, Motor Imagery (MI) based BCIs, which interpret imagined movements from electroencephalogram (EEG) signals, have shown particular promise for rehabilitation and assistive applications. However, the field faces a critical challenge: the significant variability in EEG patterns across different subjects necessitates extensive calibration for each new user.
 
 Transfer Learning (TL) has emerged as a promising solution to this challenge, allowing models trained on existing subjects to adapt to new users with minimal calibration data. Despite the growing body of research in EEG-MI transfer learning, the field lacks standardized evaluation protocols, making it difficult to compare different approaches effectively and gauge genuine progress.
