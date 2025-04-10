@@ -3,18 +3,17 @@
 ## Absract 
 
 Motor imagery (MI)-based brain-computer interfaces (BCIs) hold significant potential
-for rehabilitation and assistive technologies, but their widespread adoption is hindered by
-high inter-subject variability in EEG signals, necessitating extensive calibration for new
-users. Transfer learning (TL) offers a promising solution by leveraging data from existing
-subjects to reduce calibration requirements. However, the lack of standardized evaluation
+for rehabilitation and assistive technologies. However, their widespread adoption is hin-
+dered by high inter-subject variability in EEG signals, necessitating extensive calibration
+for new users. Transfer learning (TL) methods overcome this by leveraging data from ex-
+isting subjects to reduce the calibration time. However, the lack of standard evaluation
 protocols in EEG-MI TL research makes it challenging to compare different approaches
-fairly. To address these issues, we present an open-source Python implementations of key
-Riemannian geometry-based TL methods for EEG-MI, along with standardized benchmarks
-to enable consistent and reproducible comparisons. Additionally, we provide insights into
-temporal versus spatial EEG feature localization, guiding future development of state-of-
-the-art methods. Our work aims to bridge the gap between methodological research and
-practical BCI applications, facilitating more reliable and accessible MI-based systems.
-
+fairly. Moreover, the lack of availability of codebases adds to the issue of reproducibility.
+Our study employs a standardized evaluation protocol to compare key transfer learning
+techniques across cross-session and cross-subject scenarios. We further conduct ablation
+studies focusing on signal length and preprocessing parameters to quantify the sensitivity of
+the algorithms to signal and noise variability. Finally, we present Python implementations
+of the methods for reproducibility and to facilitate future research.
 
 ## Methods
 
